@@ -1,10 +1,11 @@
 Company Profit Estimation with Linear Regression
+
 This repository hosts a dataset of 1000 companies, including various financial metrics, and a Jupyter notebook that implements a Linear Regression model to estimate company profits based on those metrics. The primary aim is to provide a tool for financial analysis and prediction that can be utilized by data scientists, financial analysts, and enthusiasts interested in exploring the correlation between company financials and their profit outcomes.
 
-Overview
+Overview:
 The 1000_Companies.csv file contains financial data of 1000 companies, featuring metrics such as R&D Spend, Administration Spend, Marketing Spend, and Profit. The Linear_Regression_for_Company_Profit_Estimation.ipynb Jupyter notebook utilizes this dataset to build and evaluate a Linear Regression model that predicts company profits based on the provided metrics.
 
-Technologies Used
+Technologies Used:
 This project makes extensive use of the following technologies:
 
 Python: The primary programming language used for data analysis and machine learning model implementation.
